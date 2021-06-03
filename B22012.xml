@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Die Veneris, 16. Maii. 1645. By the Lords and Commons assembled in Parliament at Westminster. Instructions rules and directions, to be observed &amp; put in execution by Collonel Martin Pinder, Harcourt Leighton, Thomas Harbert, and Captaine Iohn Potter, Esquries [sic], and commissioners of Parliament in the Army, established by both Houses of Parliament, under the command of Sir Thomas Fairfax, knight, commander in cheife: and all other persons whom these instructions &amp;c· doe or may concerne..</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22012</idno><idno type="EEBO-CITATION">99883960</idno>
+  <idno type="VID">194045</idno>
+  <idno type="EEBO-PROQUEST">2240898320</idno>
+  
+            <idno type="STC">Wing E1579A</idno>
+            <idno type="STC">Thomason 669.f.9[34]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 190.g.13[242]</idno>
+            <idno type="STC">ESTC R212237</idno>
+            <idno type="PROQUEST">ocm99883960</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99883960e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22012)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 194045)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C29:2[243])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Die Veneris, 16. Maii. 1645. By the Lords and Commons assembled in Parliament at Westminster. Instructions rules and directions, to be observed &amp; put in execution by Collonel Martin Pinder, Harcourt Leighton, Thomas Harbert, and Captaine Iohn Potter, Esquries [sic], and commissioners of Parliament in the Army, established by both Houses of Parliament, under the command of Sir Thomas Fairfax, knight, commander in cheife: and all other persons whom these instructions &amp;c· doe or may concerne..</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>2 sheets ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husbands,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1645].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Initial.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Steele notation: the they 2) Horse-meat, of.</note>
+                  <note>Imperfect: lacking second leaf.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Fairfax, Thomas Fairfax, --  Baron, 1612-1671 --  Early works to 1800.</term>
+               <term type="corporate_name">England and Wales. --  Army --  Early works to 1800.</term>
+               <term type="topical_term">Broadsides --  England --  London --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:194045:1"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Veneris,</hi> 16. <hi>Maii.</hi> 1645.</date> By the Lords and Commons assembled in Parliament at <hi>Westminster.</hi>
+               </dateline>
+            </opener>
+            <head>Instructions Rules and Directions, to be observed &amp; put in execution by Collonel <hi>Martin Pinder, Harcourt Leighton, Thomas Harbert,</hi> and Captaine <hi>Iohn Potter,</hi> Esquries, and Commissioners of Parliament in the Army, established by both Houses of Parliament, under the Command of Sir <hi>THOMAS FAIRFAX,</hi> Knight, Commander in Cheife: And all other persons whom these Instructions <hi>&amp;c.</hi> doe or may concerne.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the Commissioners take speciall care, as often as occasion shall require to give an account to the Parliament of all such things as shall be fit to be made known unto them, And shall endeavour ac<g ref="char:EOLhyphen"/>cording to Instructions, that no Commander or Officer shall receive any Pay, but such as duly at<g ref="char:EOLhyphen"/>tend their charge; And the said Commissioners, or any of them, are likewise to supervise and exa<g ref="char:EOLhyphen"/>mine the Musters of the said Army as occasion shall require, and shall use the best meanes they can for preventing of dead payments, false Musters, Free quarter, Plundering, Seizing of Horses, selling, spoyling, or imbezelling of Armes, or Horses; And for the avoiding of any other misdemea<g ref="char:EOLhyphen"/>nor in the Officers or Souldiers, which may turne to the prejudice of the Common-wealth.</p>
+            <p n="2">2. That the Commissioners repaire to the Counsels of Warre, for the better enabling them to give an account to the Parliament of the proceedings in the Army, and there to heare, observe, and debate touching such matters and passages, as may concerne either the Regulating the Army, or any part thereof, or speedy administration of Justice, the acting or promoting of any good designe, or the advancement of the publike service, And that once in fifteene dayes, or as occasion shall require, they are to certifie the state of the Army, and give an accompt of their proceedings unto the Par<g ref="char:EOLhyphen"/>liament, or such Committees as they shall nominate; And shall from time to time observe all such further orders and directions con<g ref="char:EOLhyphen"/>cerning the Army, and the Officers thereof, as shall be recommended to their care by both or either of the Houses of Parliament; And the said Sir THOMAS FAIRFAX Commander in chiefe, is hereby desired to admit the said Commissioners to his Counsels, to ad<g ref="char:EOLhyphen"/>vise with them, and to Arme them with power for the purposes aforesaid, and the better execution of the particular Rules, and directions herein mentioned.</p>
+            <p n="3">3. That the Judge Advocate of the Army doe administer an Oath to such persons attesting upon Musters, as shall be presented unto him for the discovery of false Muster, or accusing any person that shall violate the Articles of Warre in case of Plunder, or otherwise commit any misdemeanors, which may turne to the prejudice of the Common-wealth. And to take examinations thereupon, and pro<g ref="char:EOLhyphen"/>duce them as Evidence at the Courts Marshall, or elsewhere for the better execution of Justice, and ease of the Countries attendance; And for default, or in the absence of the said Judge Advocate or Commissary, or otherwise as occasion shall require, the said Commis<g ref="char:EOLhyphen"/>sioners, or any one of them, are hereby also authorized to administer an oath unto, and to take examinations thereupon, of all such per<g ref="char:EOLhyphen"/>sons attesting, or that shall be witnesses for the purpose aforesaid.</p>
+            <p n="4">4. That such Horses and Armes, as in Fight or otherwise, shall justly become prize to the Souldier, the Commissioners, for the en<g ref="char:EOLhyphen"/>couragement of the souldiers, are hereby authorized for the use of the State, to buy the said Horses and Armes, for that the same may be disposed of, and kept for the service of the State, And that no Horse be bought or sold in the Army by Troopers or Souldiers, but such as shall be first presented, Vouched, and entred with the Marke-Master, upon the penalty of forfeiting every Horse to the State that shall not be vouched, and entred as aforesaid; And every such bought Horse to be marked by the Mark-Master, and disposed of by the Com<g ref="char:EOLhyphen"/>missioners for the Parliament service, in such a way as the Commander in chiefe shall approve of.</p>
+            <p n="5">5. That all Money, Plate, Jewels, Horses, Armes, Goods, Cattell, Wares, Merchandize, and Commodities whatsoever, which shall be Seized, or taken by the said Army, or any part thereof from the Common Enemies, or their Garrisons or Quarters (otherwise then by Storme, Battell, or Skirmish) shall be inventoried and delivered in writing to the Commissioners of the Army, to bee by the Commander in chiefe (or his Deputy for that purpose) and the Commissioners, valued, sold, or otherwise disposed of, to the best ad<g ref="char:EOLhyphen"/>vantage of the Army, and the Publique service.</p>
+            <p n="6">6. They shall to their utmost endeavour, That no Officer or Souldier be quartered at any place, but by the Quarter-master, first shewing his Commission if it be required, and by what Authority he takes up such quarters, and giving a Ticket of the names of every person which he shall quatter, expressing of what Regiment, Troope, or Company, the same person so quartered is, and the number of Horses there quartered, and at whose house the same are quartered, together with the day of the moneth, and that thereunto the same Quartermaster subscribe his name, saving that where, by reason of the great numbers of them, the names cannot be so suddenly inserted in the Ticket as is requisite; The numbers for the present shall be expressed in place of their names, and within one day after, or sooner (if the same conveniently may be) the names of the persons quartered, shall by the Quarter-master be written upon or under such Ticket.</p>
+            <p n="7">7. That no quarter or provisions, for man or horse in any quarters, be taken without payment of ready money, but in case of neces<g ref="char:EOLhyphen"/>sity for want of pay, which the Parliament will use all meanes possible to prevent, and which necessity is to be expressed in such Tickets as aforesaid. And in case where any quarter or provisions shall be had or taken without payment as aforesaid; The Captaine or Quar<g ref="char:EOLhyphen"/>ter-master respectively shall by writing under their, or one of their hands, certifie what provisions have beene so had, within what time, by whom, and of what Regiment, Troop, and Company, from whom, and the value therof, and such other order and directions concerning the same, shall be pursued and observed, as the Commissioners shall appoint, whereby the party to whom it is due may receive satisfa<g ref="char:EOLhyphen"/>ction. Provided, that where the Army shall be upon the march, not staying above foure and twenty houres in a place, the rate shall bee foure pence a night for Hay, three pence a night for Grasse, foure pence a peck for Oats, six pence a peck for Pease and Beanes, and seven pence a peck for Barley and Malt, which provision of Barley and Malt is not to be taken but in case of necessity, where no other graine for horse meat is to be had, As also eight pence a day for the dyet of every Trooper or horse-man, seven pence a day for every Dra<g ref="char:EOLhyphen"/>goonier, and six pence a day for every foot Souldier, Pioner, Waggoner or Carter, that shall not be Officers by Commission, or of the Life-guards troop. Provided also that these rates, or any of them shal be continued or altered for the former, or other time, as occasion shall appeare to the Commissioners, &amp; to be approved of by the Commander in chiefe. Provided that no Inhabitant to whatsoever shall be compelled to furnish any provision but what he hath in his house of his owne, and that no Officer or Souldier shall compell him to do otherwise upon paine of cashiering, or such other punishment as the Commander in chiefe shall thinke fit.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
